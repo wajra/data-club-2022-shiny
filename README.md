@@ -26,6 +26,3 @@ Build a simple Shiny App that prints out exactly what you type in
 
 A shiny app that can be used for exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) - `palmerpenguins`
 
-### App 4 - Toss up
-
-Toss up is an interactive web app that allows for direct comparisons between batsmen in International Cricket 
