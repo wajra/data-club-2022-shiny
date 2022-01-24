@@ -9,3 +9,7 @@ _Jeewantha Bandara_
 In this tutorial we'll make a couple of simple apps to get you started.
 
 ### Prerequisites
+1. Shiny - `install.packages("shiny")` 
+2. Tidyverse - `install.packages("tidyverse")`
+3. Palmer Penguins - `install.packages("palmerpenguins")`
+
