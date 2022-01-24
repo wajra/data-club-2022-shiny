@@ -14,6 +14,8 @@ In this tutorial we'll make a couple of simple apps to get you started.
 2. Tidyverse - `install.packages("tidyverse")`
 3. Palmer Penguins - `install.packages("palmerpenguins")`
 
+We will walk through the following apps
+
 ### App 1
 Boilerplate Shiny App (comes with Shiny) that builds a simple web app using [Old Faithful Geyser](https://en.wikipedia.org/wiki/Old_Faithful) in Yellowstone National Park(`faithful`) data. We'll use this to understand the structure of a Shiny App
 
@@ -22,4 +24,8 @@ Build a simple Shiny App that prints out exactly what you type in
 
 ### App 3
 
-A shiny app that can be used to exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) - `palmerpenguins`
+A shiny app that can be used for exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) - `palmerpenguins`
+
+### App 4 - Toss up
+
+Toss up is an interactive web app that allows for direct comparisons between batsmen in International Cricket 
