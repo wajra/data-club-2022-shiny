@@ -50,8 +50,6 @@ server <- function(input, output) {
 # Run the application 
 shinyApp(ui = ui, server = server)
 
-# Adding some more context to the 
-
 
 # Exercise
 # There are variables in the 'palmerpenguins' other than bill length and bill depth
