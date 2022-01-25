@@ -13,6 +13,7 @@ In this tutorial we'll make a couple of simple apps to get you started.
 1. Shiny - `install.packages("shiny")` 
 2. Tidyverse - `install.packages("tidyverse")`
 3. Palmer Penguins - `install.packages("palmerpenguins")`
+4. rsconnect - `install.packages("rsconnect")`
 
 We will walk through the following apps
 
@@ -20,9 +21,9 @@ We will walk through the following apps
 Boilerplate Shiny App (comes with Shiny) that builds a simple web app using [Old Faithful Geyser](https://en.wikipedia.org/wiki/Old_Faithful) in Yellowstone National Park(`faithful`) data. We'll use this to understand the structure of a Shiny App
 
 ### App 2
-Build a simple Shiny App that prints out exactly what you type in
+Build a simple Shiny App that prints out exactly what you type in. Also introduces you to putting HTML elements in the 
 
 ### App 3
 
-A shiny app that can be used for exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) (`palmerpenguins`)
+A shiny app that can be used for basic exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) (`palmerpenguins`)
 
