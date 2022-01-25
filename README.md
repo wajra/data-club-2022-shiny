@@ -18,10 +18,10 @@ In this tutorial we'll make a couple of simple apps to get you started.
 We will walk through the following apps
 
 ### App 1
-Boilerplate Shiny App (comes with Shiny) that builds a simple web app using [Old Faithful Geyser](https://en.wikipedia.org/wiki/Old_Faithful) in Yellowstone National Park(`faithful`) data. We'll use this to understand the structure of a Shiny App
+Boilerplate Shiny App (comes with Shiny) that builds a simple web app using [Old Faithful Geyser](https://en.wikipedia.org/wiki/Old_Faithful) in Yellowstone National Park(`faithful`) data. We'll use this to understand the structure of a Shiny App.
 
 ### App 2
-Build a simple Shiny App that prints out exactly what you type in. Also introduces you to putting HTML elements in the 
+Build a simple Shiny App that prints out exactly what you type in. Also introduces you to putting HTML elements in a Shiny app.
 
 ### App 3
 
