@@ -22,7 +22,16 @@ ui <- fluidPage(
     
     # Show what I typed in
     mainPanel(
-      textOutput("sentence")
+      textOutput("sentence"),
+      # We are using some HTML elements below. You can include them to include
+      # static text and some basic styling to the web app
+      # Line breaker
+      br(),
+      # Heading 3
+      h3("Understanding how Shiny works.."),
+      # Paragraph
+      p("Shiny input and output elements are reactive. An output element will get updated
+        by the server as soon as the input element changes.")
     )
   )
 
@@ -37,3 +46,11 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
+
+# Exercise
+
+# Most of us are slow typers. So it might actually be annoying if the element starts 
+# updating before we are done typing. So how do we delay updating the output element
+# until we are done typing.
+
+# Check 'answer-2'
