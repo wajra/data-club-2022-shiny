@@ -27,4 +27,4 @@ Build a simple Shiny App that prints out exactly what you type in. Also introduc
 
 A shiny app that can be used for basic exploratory data analysis. Uses the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) (`palmerpenguins`)[](https://github.com/wajra/mid_atlantic_process_models.git)
 
-** Happy coding with Shiny!! **
+**Happy coding with Shiny!!**
